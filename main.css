@@ -6,6 +6,10 @@ a {
 color: #69CBBB;
 text-decoration: none;
 }
+b {
+  color: #ff0000;
+  text-decoration:none;
+}
   margin: 30px auto;
   max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
