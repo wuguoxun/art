@@ -15,11 +15,16 @@ body {
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;
+  background-repeat: no-repeat;
+  background-size: 1280,720;
 }
 
 h1 {
   padding: 20px 0px 10px 0px;
+  
 }
+
+
 
 /* This changes color and removes default underline in links  */
 a {
