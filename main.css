@@ -9,6 +9,7 @@ the body will be centered on the page
 */
 
 body {
+  background-color: 247,247,247;
   margin: 30px auto;
   max-width: 60%;
   font-family: "Helvetica", "Arial", sans-serif;
