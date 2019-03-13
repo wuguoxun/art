@@ -13,21 +13,21 @@ let documentActive = false; // we need to make sure they engage with page before
 
 function setup() {
   // dophin vid 1!
-  vid_0 = createVideo(['im poppy.mp4', 'assets/im poppy.webmhd.webm']);;
+  // vid_0 = createVideo(['im poppy.mp4', 'assets/im poppy.webmhd.webm']);;
   vid_0.size(300, 300);
 
   vid_0.mouseOver(playVid_0);
   vid_0.mouseOut(pauseVid_0);
 
   // dophin vid 2!
-  vid_1 = createVideo(['Two-Minute Self-Introduction Speech_1.mp4', 'assets/Two-Minute Self-Introduction Speech_1.webmhd.webm']);;
+  // vid_1 = createVideo(['Two-Minute Self-Introduction Speech_1.mp4', 'assets/Two-Minute Self-Introduction Speech_1.webmhd.webm']);;
   vid_1.size(300, 300);
 
   vid_1.mouseOver(playVid_1);
   vid_1.mouseOut(pauseVid_1);
 
   // dophin vid 3!
-  vid_2 = createVideo(['im poppy.mp4', 'assets/im poppy.webmhd.webm']);;
+  // vid_2 = createVideo(['im poppy.mp4', 'assets/im poppy.webmhd.webm']);;
   vid_2.size(300, 300);
 
   vid_2.mouseOver(playVid_2);

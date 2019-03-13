@@ -5,7 +5,7 @@ let documentActive = false; // we need to make sure they engage with page before
 
 
 function setup() {
-  dolphinVid = createVideo(['assets/dolphins_2.mp4', 'assets/dolphins_2.webm']);;
+  // dolphinVid = createVideo(['assets/dolphins_2.mp4', 'assets/dolphins_2.webm']);;
   // with no specified size, video is full size
   dolphinVid.size(1000, 900);
 
