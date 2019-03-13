@@ -1,4 +1,4 @@
-# My Name is GUOXUN WU
+# # My Name is Guoxun Wu
 
 ### I am an artist. This is my portfolio site.
 
